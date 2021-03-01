@@ -23,7 +23,7 @@ jobs:
       - name: Checkout
         run: |
             #git clone https://github.com/Sunert/Scripts.git ~/Scripts
-            git clone https://github.com/akuticlouds/actions-youth.git
+            git clone https://github.com/akuticlouds/actions-youth.git ~/actions-youth
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:
@@ -32,11 +32,13 @@ jobs:
         if: env.YOUTH_HEADER
         run: |
           #cd ~/Scripts
+          cd ~/actions-youth
           npm install
       - name: '运行 【中青看点】'
         if: env.YOUTH_HEADER
         run: |
           #cd ~/Scripts
+          cd ~/actions-youth
           #node Task/youth.js
           node youth.js
         env:
