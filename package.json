@@ -1,27 +1,2 @@
-{
-  "name": "Sunert",
-  "version": "1.0.0",
-  "description": "",
-  "main": "jingxi.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Sunert/Scripts.git"
-  },
-  "keywords": ["中青看点,腾讯新闻等等"],
-  "author": "Sunert",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sunert/Scripts/issues"
-  },
-  "homepage": "https://github.com/Sunert/Scripts#readme",
-  "dependencies": {
-    "crypto-js": "^4.0.0",
-    "got": "^11.7.0",
-    "http-server": "^0.12.3",
-    "tough-cookie": "^4.0.0",
-    "download": "^8.0.0"
-  }
-}
+{"youthheader_zq":"&uid=30287815&cookie=MDAwMDAwMDAwMJCMpN-w09Wtg5-Bb36eh6CPqHualq2jmrCaraywp31thbKc3q-4qmqXr6NthJl7mI-shMmXeqDau4StacS3o7GFonqWr6muqoJ5gWmEY2Ft&cookie_id=cabd2e26b272db1b6fe8218049a8f919","read_zq":"p=9NwGV8Ov71o%3DgW5NEpb6rjab0hHSxXenkWHSkCwB26b0x_gtnWSAWxdTXCgxxOuanCN2dw0kJfw32Hgiqzar555dLr5_S0td35Lqbv7Jb3Z6sneNgFk-xgBwNVof3Cc1_Fak6PjtQMUGxU_NLKq90G8b8_WBsijTnaHIhLAopC2ubQun3Sewsab9kIz_UqlSHTrQK2OKjmV6E4W9DhXMQa0pF6YChUq4TnNYFOK8U0Ni1dbijS3KS88o8lqAtp-M81nPtcOh6nwROhmnivnI8vC1kOK5abDVDCoqRt80o_hwuaRleW1OYF3SyPfA8MB2tYHkHl7vzTO6Nf5M0F7GWVMTPxt80q2JnxgrYUywZCLDmV22Z4eB7FMfJe2pfKM-O4o72fbgqkydHFcVHVPJn8r1s4k16k8MXXVWFpq1lE89spRRJv8LK_B7CSc_lluLa6P07C3f0u7aoSCcw-l1A07uSfuqrGTIr3MgdZ9VjeppxzsmDWc19DPNew5mzUlh-9P6bqRuMpAXInVG3PNh8SkqzakAWjec9_HZ-kuALpIwy0c8kI_ObZq_QsRnmYs6zq-W7FRpVXonoLS-uBEsrY-8XkN5KAjJnoPcWTZZdYOt_Rry03l-dBUSYQ8b8ahECMANR79ZDjBUUugTKiTOzH8UJAJOpfsuLUjOiToYOVsIrQy918Oz97VCANIT5gJFC5HtAk8xWHaNx-rMvHlq0aHyMmC3WnpuWreQwkZ-GfGZWkDZCykWIGLzms1foeVo3Iq8wf7N6YZAhj7fM0SAdMX_eWLliOkcjV33GI5HWqoDfZLiPHs7cSRKtBn9GIvU0WH2nHGi8HjJyI8B1yQePEWcAHCTZOk6D8mqOZF7Y-5bYZfdnG-Uh_eF9Roy7c2u2P6vfkoHV4wc","readtime_zq":"p=9NwGV8Ov71o%3DgW5NEpb6rjb84bkaCQyOq-myT0C-Ktb_pYgxM135XoUfaIpfBqAxRGnFAl1k71C_zMPfUdFlHJTcuxYW9LgBCdTzuda7fnA8r2K-D8AqSYWzt-6LIEcC8SPkaeAgjjv1iCeYI_yckjGbVxJEy1xSQc4qp-_g8cJecymP34l6mTd_I3FW1HUB-tGuahyCPZDpwptTGUJcdGyRnqglvaKQ_jOTv0oJdQXqPHHeGi1hVD88_E5ncjVrHNenOvglnXgRVx62v8LO22O7dmm2ndMA84ZYJmz-7e6ONl0pbuPvuTyqDe0CsqT64mvZvwaJm-8Qr_yYwDXCdQDCFJuN_IQuvYb5CGumBgjLlyTGwQNunvv_PYq5ppFoEHu32MFDUHmiA8byPb0AQwst4J6yPV2GW-F1k8k_Bysz2bpALL-jekLU7VueORtbLdZTf3HuafpiaZm93UU2IZwEfx87jsHyGtQ7BWf02JkrqZJvzT3KbhK1iWpUaVKNBBOZUxqBDQoeI3dypjrLWU51zWDdxbRba5cQQ11pQEqrsGTKk3i2xc-UJ56yh7cP5RV_RAbvZEZPXUpoRQeLTdRVSgpx4-KvqDB41fPcXQEaR0Q6ZMcGUw-omnPpkvD0o0rUx3k0nNMIgyBNTI57knPOh3Ss4_HmnL2PzC1TiWTLWKk3oI_NFe8aOUHCX80Nh8vWiRDV3Ma-zgNlf_2DDpggh1c8qRzQ1gKBk6s_-3OGjjbwngFfbbLTCdvDV1wagUq7uLNc_xpZMHs0tHC7uRnr85FuTwtfJKZNyUlGlQTeKQEgHqoH8WU_I3TvI2rFtktHy4QV41w8ZVs3YX-S6ec%3D","youthheader_zq2":"","read_zq2":"","readtime_zq2":"","youthheader_zq3":"","read_zq3":"","readtime_zq3":"","youthheader_zq4":"","read_zq4":"","readtime_zq4":""}
+
